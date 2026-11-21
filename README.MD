@@ -139,7 +139,7 @@ Passo a passo:
 
 1. Informe o nome da pessoa.
 2. Posicione o rosto diante da câmera.
-3. Pressione `ESPAÇO` para capturar a fotografia.
+3. Pressione `a` para capturar a fotografia.
 4. A imagem será salva automaticamente na pasta `rostos/`.
 
 Para cancelar, pressione `Q`.
